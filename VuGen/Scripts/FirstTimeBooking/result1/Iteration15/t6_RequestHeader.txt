@@ -1,0 +1,16 @@
+POST /cgi-bin/reservations.pl HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: no-cache
+Referer: http://localhost:1080/cgi-bin/reservations.pl
+Origin: http://localhost:1080
+Priority: u=4
+DNT: 1
+Sec-GPC: 1
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1729357035; MTUserInfo=firstName&Jus&address2&LA%2FCA%2F90217&username&justiclo&hash&111&lastName&Clo%0A&address1&Oak%20Dr&creditCard&&expDate&%0A
+Content-Length: 315
+

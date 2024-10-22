@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sat, 19 Oct 2024 18:18:43 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Fri, 18 Oct 2024 18:18:44 GMT
+Set-Cookie: MTUserInfo=firstName&Ryan&username&ryangosl&address2&LA%2FCA%2F90007&hash&12&address1&Park%20St&lastName&Gos%0A; path=/
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

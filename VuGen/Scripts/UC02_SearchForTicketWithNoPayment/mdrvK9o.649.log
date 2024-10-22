@@ -1,0 +1,14 @@
+Error: missing newline in C:\Users\Алсу\OneDrive\Документы\VuGen\Scripts\UC02_SearchForTicketWithNoPayment\../users.dat	[MsgId: MERR-13874]
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(135): Registered web_reg_find successful for "Text=Flight Selections" (count=1)  	[MsgId: MMSG-26364]
+Action.c(135): Registered web_reg_find successful for "Text=Flight departing from <B>Frankfurt</B> to <B>Los Angeles</B>" (count=1)  	[MsgId: MMSG-26364]
+Action.c(135): web_submit_form("reservations.pl") was successful, 2456 body bytes, 256 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(154): Notify: Transaction "FindFlight" ended with a "Pass" status (Duration: 29,1000 Think Time: 29,0080 Wasted Time: 0,0002).	[MsgId: MMSG-16870]
+Action.c(156): lr_think_time: 25,00 seconds.	[MsgId: MMSG-15948]
+Action.c(161): Notify: Transaction "SignOff" started.	[MsgId: MMSG-16999]
+Action.c(163): web_image("SignOff Button") started  	[MsgId: MMSG-26355]
+Action.c(163): Image-linking to "http://localhost:1080/cgi-bin/welcome.pl?signOff=1", Target Frame="body"  	[MsgId: MMSG-27993]
+Action.c(163): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

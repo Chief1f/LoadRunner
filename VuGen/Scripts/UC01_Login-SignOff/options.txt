@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\MASLENOK\Documents\VuGen\Scripts\UC01_Login-SignOff
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\maslenok\documents\vugen\scripts\uc01_login-signoff\\logfile.log
+c:\users\maslenok\documents\vugen\scripts\uc01_login-signoff\\combined_UC01_Login-SignOff.c
+c:\users\maslenok\documents\vugen\scripts\uc01_login-signoff\\pre_cci.c

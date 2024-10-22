@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\loadRunner\VuGen\Scripts\FirstTimeRegistration
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ee:\loadrunner\vugen\scripts\firsttimeregistration\\logfile.log
+e:\loadrunner\vugen\scripts\firsttimeregistration\\combined_FirstTimeRegistration.c
+e:\loadrunner\vugen\scripts\firsttimeregistration\\pre_cci.c

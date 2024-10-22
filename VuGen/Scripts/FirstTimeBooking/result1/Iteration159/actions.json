@@ -1,0 +1,29 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1078",
+                "stepName": "Url: webtours",
+                "infFile": "t1.inf",
+                "time": 1729358415256
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "HomePage",
+                "rawStartTime": 1729358291313,
+                "rawEndTime": 1729358415257,
+                "thinkTime": 0.0,
+                "wastedTime": 1.3395769596099854
+            },
+            {
+                "transactionName": "UC03_TicketBooking",
+                "rawStartTime": 1729358291298,
+                "rawEndTime": 1729358415257,
+                "thinkTime": 0.0,
+                "wastedTime": 1.3395769596099854
+            }
+        ]
+    }
+]

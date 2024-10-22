@@ -1,0 +1,107 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1601",
+                "stepName": "Url: webtours",
+                "infFile": "t1.inf",
+                "time": 1729359668511
+            },
+            {
+                "stepId": "STEP1602",
+                "stepName": "Submit Form: login.pl",
+                "infFile": "t2.inf",
+                "time": 1729359671612
+            },
+            {
+                "stepId": "STEP1603",
+                "stepName": "Image: Search Flights Button",
+                "infFile": "t3.inf",
+                "time": 1729359674759
+            },
+            {
+                "stepId": "STEP1604",
+                "stepName": "Submit Form: reservations.pl",
+                "infFile": "t4.inf",
+                "time": 1729359677743
+            },
+            {
+                "stepId": "STEP1605",
+                "stepName": "Submit Form: reservations.pl",
+                "infFile": "t5.inf",
+                "time": 1729359680677
+            },
+            {
+                "stepId": "STEP1606",
+                "stepName": "Submit Form: reservations.pl",
+                "infFile": "t6.inf",
+                "time": 1729359683688
+            },
+            {
+                "stepId": "STEP1607",
+                "stepName": "Image: SignOff Button",
+                "infFile": "t7.inf",
+                "time": 1729359686681
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "HomePage",
+                "rawStartTime": 1729359665431,
+                "rawEndTime": 1729359668526,
+                "thinkTime": 0.0,
+                "wastedTime": 2.7609589099884035
+            },
+            {
+                "transactionName": "Login",
+                "rawStartTime": 1729359668558,
+                "rawEndTime": 1729359671614,
+                "thinkTime": 0.0,
+                "wastedTime": 2.7594187259674074
+            },
+            {
+                "transactionName": "FlightsPage",
+                "rawStartTime": 1729359671646,
+                "rawEndTime": 1729359674775,
+                "thinkTime": 0.0,
+                "wastedTime": 2.723749876022339
+            },
+            {
+                "transactionName": "FindFlight",
+                "rawStartTime": 1729359674807,
+                "rawEndTime": 1729359677756,
+                "thinkTime": 0.0,
+                "wastedTime": 2.738790512084961
+            },
+            {
+                "transactionName": "ChooseFlight",
+                "rawStartTime": 1729359677788,
+                "rawEndTime": 1729359680679,
+                "thinkTime": 0.0,
+                "wastedTime": 2.7161712646484377
+            },
+            {
+                "transactionName": "FillThePaymentDetails",
+                "rawStartTime": 1729359680710,
+                "rawEndTime": 1729359683702,
+                "thinkTime": 0.0,
+                "wastedTime": 2.747054100036621
+            },
+            {
+                "transactionName": "SignOff",
+                "rawStartTime": 1729359683734,
+                "rawEndTime": 1729359686694,
+                "thinkTime": 0.0,
+                "wastedTime": 2.713906764984131
+            },
+            {
+                "transactionName": "UC03_TicketBooking",
+                "rawStartTime": 1729359665415,
+                "rawEndTime": 1729359686710,
+                "thinkTime": 0.0,
+                "wastedTime": 19.1600501537323
+            }
+        ]
+    }
+]

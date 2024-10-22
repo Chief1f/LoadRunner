@@ -1,0 +1,42 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP2343",
+                "stepName": "Url: webtours",
+                "infFile": "t1.inf",
+                "time": 1729363053625
+            },
+            {
+                "stepId": "STEP2344",
+                "stepName": "Submit Form: login.pl",
+                "infFile": "t2.inf",
+                "time": 1729363071267
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "HomePage",
+                "rawStartTime": 1729363047769,
+                "rawEndTime": 1729363053641,
+                "thinkTime": 0.0,
+                "wastedTime": 5.493110179901123
+            },
+            {
+                "transactionName": "Login",
+                "rawStartTime": 1729363053673,
+                "rawEndTime": 1729363071269,
+                "thinkTime": 0.0,
+                "wastedTime": 5.476356506347656
+            },
+            {
+                "transactionName": "UC03_TicketBooking",
+                "rawStartTime": 1729363047753,
+                "rawEndTime": 1729363071269,
+                "thinkTime": 0.0,
+                "wastedTime": 10.96946668624878
+            }
+        ]
+    }
+]

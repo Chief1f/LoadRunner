@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\MASLENOK\Documents\VuGen\Scripts\UC04_ItinenaryChecking
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\maslenok\documents\vugen\scripts\uc04_itinenarychecking\\logfile.log
+c:\users\maslenok\documents\vugen\scripts\uc04_itinenarychecking\\combined_UC04_ItinenaryChecking.c
+c:\users\maslenok\documents\vugen\scripts\uc04_itinenarychecking\\pre_cci.c

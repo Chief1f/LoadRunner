@@ -1,0 +1,13 @@
+GET /cgi-bin/welcome.pl?page=search HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+Priority: u=4
+DNT: 1
+Sec-GPC: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1729364724; MTUserInfo=firstName&San&address2&LA%2FCA%2F90016&username&sandra90&hash&16&lastName&Bull%0A&address1&Sun%20Ln&creditCard&&expDate&%0A
+

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sat, 19 Oct 2024 16:59:40 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Fri, 18 Oct 2024 16:59:40 GMT
+Set-Cookie: MTUserInfo=firstName&Zen&username&zendaya&address2&LA%2FCA%2F90021&hash&65&address1&Rose%20Rd&lastName&Cole%0A; path=/
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

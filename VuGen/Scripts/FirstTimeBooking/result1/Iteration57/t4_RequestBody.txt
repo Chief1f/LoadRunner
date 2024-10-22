@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Seattle&departDate=10%2F19%2F2024&arrive=Denver&returnDate=10%2F20%2F"
+"2024&numPassengers=1&seatPref=Window&seatType=Business&.cgifields=roundtrip&.cgifields=seatTyp"
+"e&.cgifields=seatPref&findFlights.x=61&findFlights.y=10"

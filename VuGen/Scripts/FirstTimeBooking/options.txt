@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\loadRunner\VuGen\Scripts\FirstTimeBooking
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ee:\loadrunner\vugen\scripts\firsttimebooking\\logfile.log
+e:\loadrunner\vugen\scripts\firsttimebooking\\combined_FirstTimeBooking.c
+e:\loadrunner\vugen\scripts\firsttimebooking\\pre_cci.c

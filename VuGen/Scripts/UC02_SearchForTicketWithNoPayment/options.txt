@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\MASLENOK\Documents\VuGen\Scripts\UC02_SearchForTicketWithNoPayment
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\maslenok\documents\vugen\scripts\uc02_searchforticketwithnopayment\\logfile.log
+c:\users\maslenok\documents\vugen\scripts\uc02_searchforticketwithnopayment\\combined_UC02_SearchForTicketWithNoPayment.c
+c:\users\maslenok\documents\vugen\scripts\uc02_searchforticketwithnopayment\\pre_cci.c

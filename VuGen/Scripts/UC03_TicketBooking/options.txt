@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\loadRunner\VuGen\Scripts\UC03_TicketBooking
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ee:\loadrunner\vugen\scripts\uc03_ticketbooking\\logfile.log
+e:\loadrunner\vugen\scripts\uc03_ticketbooking\\combined_UC03_TicketBooking.c
+e:\loadrunner\vugen\scripts\uc03_ticketbooking\\pre_cci.c

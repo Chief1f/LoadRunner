@@ -1,0 +1,12 @@
+Error: missing newline in C:\Users\Алсу\OneDrive\Документы\VuGen\Scripts\UC01_Login-SignOff\..\users.dat	[MsgId: MERR-13874]
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Action.c(37): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/webtours/"  	[MsgId: MMSG-26574]
+Action.c(37): Found resource "http://localhost:1080/webtours/images/hp_logo.png" in HTML "http://localhost:1080/webtours/header.html"  	[MsgId: MMSG-26659]
+Action.c(37): Found resource "http://localhost:1080/webtours/images/webtours.png" in HTML "http://localhost:1080/webtours/header.html"  	[MsgId: MMSG-26659]
+Action.c(37): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(37): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(37): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MERR-26612]
+Action.c(37): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 8446 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
