@@ -1,0 +1,12 @@
+Start auto log messages stack - Iteration 60.	[MsgId: MMSG-10545]
+Action.c(66): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(68): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(68): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(70): web_submit_form("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(70): Submitting form to "http://localhost:1080/cgi-bin/login.pl", Target Frame="body"  	[MsgId: MMSG-27978]
+Action.c(70): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(70): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(70): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
