@@ -18,6 +18,12 @@ ActivePage=0
 Count=1
 
 [UIInfo0]
+Title0=Run
+Color0=3971684
+Active0=-1
+Scale0=1
+ScaleState0=User
+UITitle0=
 
 [MoreUiInfos]
 ShowPieMarks=1
